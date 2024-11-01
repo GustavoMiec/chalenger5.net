@@ -35,7 +35,7 @@ A API inclui endpoints CRUD para os seguintes recursos:
 - **Singleton**: Implementado para o gerenciador de configurações, garantindo que uma única instância seja usada em toda a aplicação.
 
 ### Testes
-Implementamos testes unitários, de integração e de sistema abrangentes utilizando **xUnit** 
+Implementamos testes unitários, de integração e de sistema abrangentes utilizando **xUnit** (até 30 pontos).
 
 ## Documentação da API
 
